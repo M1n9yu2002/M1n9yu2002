@@ -6,6 +6,12 @@ My current work focuses on **financial data analysis, risk analytics, market dat
 
 I care not only about whether a model or system works, but also **why it works, under what assumptions, and how its outputs can support better decisions**.
 
+我目前就讀英國布里斯托大學金融科技與資料科學碩士，背景結合資訊管理、資料科學與金融科技。
+
+我的作品主要聚焦於金融資料分析、風險分析、市場資料、可重現分析流程，以及金融科技產品原型。近期專案包含客戶交易行為風險分析、穩健最佳化與預測建模流程、FinTech Escrow DApp，以及市場模擬實驗。
+
+我重視清楚的問題定義、可解釋的分析流程、明確的假設，以及能支援決策的技術輸出。
+
 ---
 
 ## Current Focus
@@ -27,6 +33,7 @@ I care not only about whether a model or system works, but also **why it works, 
 * **Frontend / Product:** Next.js, React, Tailwind CSS
 * **Data Infrastructure:** Supabase, database design, reproducible reporting
 * **Workflow:** Git, GitHub, R Markdown, Jupyter Notebook
+
 
 ---
 
@@ -80,5 +87,7 @@ I believe good technical work should be understandable, inspectable, and improva
 ---
 
 📍 Bristol, UK / New Taipei, Taiwan
+
 🔗 LinkedIn: [linkedin.com/in/mingyu-wang-fintech](https://www.linkedin.com/in/mingyu-wang-fintech)
+
 💻 GitHub: [github.com/M1n9yu2002](https://github.com/M1n9yu2002)**
