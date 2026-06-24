@@ -21,12 +21,12 @@ I care not only about whether a model or system works, but also **why it works, 
 
 ## Technical Skills
 
-**Languages:** Python, R, SQL, TypeScript
-**Data & Analytics:** pandas, NumPy, scikit-learn, statistical modelling, data visualisation
-**FinTech & Web3:** Solidity, Hardhat, smart contracts, escrow workflows
-**Frontend / Product:** Next.js, React, Tailwind CSS
-**Data Infrastructure:** Supabase, database design, reproducible reporting
-**Workflow:** Git, GitHub, R Markdown, Jupyter Notebook
+* **Languages:** Python, R, SQL, TypeScript
+* **Data & Analytics:** pandas, NumPy, scikit-learn, statistical modelling, data visualisation
+* **FinTech & Web3:** Solidity, Hardhat, smart contracts, escrow workflows
+* **Frontend / Product:** Next.js, React, Tailwind CSS
+* **Data Infrastructure:** Supabase, database design, reproducible reporting
+* **Workflow:** Git, GitHub, R Markdown, Jupyter Notebook
 
 ---
 
@@ -81,4 +81,4 @@ I believe good technical work should be understandable, inspectable, and improva
 
 📍 Bristol, UK / New Taipei, Taiwan
 🔗 LinkedIn: [linkedin.com/in/mingyu-wang-fintech](https://www.linkedin.com/in/mingyu-wang-fintech)
-💻 GitHub: [github.com/M1n9yu2002](https://github.com/M1n9yu2002)
+💻 GitHub: [github.com/M1n9yu2002](https://github.com/M1n9yu2002)**
